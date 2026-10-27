@@ -1,0 +1,20 @@
+# ---- Datos y análisis ----
+pandas
+pyarrow
+duckdb
+matplotlib
+statsmodels
+# ---- Captura: APIs y scraping ----
+requests
+beautifulsoup4
+python-dotenv
+# ---- AWS emulado con MiniStack ----
+boto3
+awswrangler
+# ---- Capa de servicio: PostgreSQL ----
+psycopg2-binary
+# ---- Datos no estructurados ----
+pdfplumber
+spacy
+# ---- Grafos (desde la UD1) ----
+networkx

@@ -1,0 +1,7 @@
+# Finales de línea en formato Linux (LF) para los ficheros que leen
+# los contenedores, aunque se editen en Windows.
+*.sh text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+.env* text eol=lf

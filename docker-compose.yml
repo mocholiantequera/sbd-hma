@@ -1,0 +1,89 @@
+# =====================================================================
+# Stack del módulo Sistemas de Big Data (5074) - versión de la UD0
+#
+# ministack -> AWS emulado en local (S3, Glue, Athena...) puerto 4566
+# postgres -> base de datos de servicio para el BI puerto 5432
+# metabase -> cuadros de mando, desde el navegador puerto 3000
+#
+# Se da parcialmente hecho: se irá ampliando en próximas unidades.
+# Lo personal de cada alumno va en el fichero .env
+# =====================================================================
+name: sbd
+
+services:
+  ministack:
+    # Edición full: trae DuckDB para que Athena ejecute SQL de verdad
+    image: ministackorg/ministack:1.5.24-full
+    container_name: ${INICIALES:?Falta INICIALES en .env}-sbd-ministack
+    ports:
+      - "4566:4566"
+    environment:
+      S3_PERSIST: "1"                 # guarda lo que se sube a S3
+      PERSIST_STATE: "1"              # guarda el estado (Glue, etc.)
+      STATE_DIR: /tmp/ministack-data  # carpeta donde lo guarda
+      ATHENA_ENGINE: duckdb           # SQL real, no simulado
+    volumes:
+      - ministack-data:/tmp/ministack-data
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - >-
+          import urllib.request as u;
+          u.urlopen("http://localhost:4566/_ministack/health")
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:18
+    container_name: ${INICIALES:?Falta INICIALES en .env}-sbd-postgres
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Falta POSTGRES_PASSWORD en .env}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      # OJO: desde PostgreSQL 18 la ruta es /var/lib/postgresql (sin /data)
+      - postgres-data:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+  metabase:
+    # Versión LTS: con soporte durante todo el curso
+    image: metabase/metabase:v0.58.35
+    container_name: ${INICIALES:?Falta INICIALES en .env}-sbd-metabase
+    ports:
+      - "3000:3000"
+    environment:
+      # Límite de memoria de Java, para que no se coma el portátil
+      JAVA_OPTS: "-Xmx1g -XX:MaxMetaspaceSize=512m"
+      # Su propia configuración (cuentas, preguntas...) va al volumen
+      MB_DB_FILE: /metabase-data/metabase.db
+    volumes:
+      - metabase-data:/metabase-data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl --fail -s http://localhost:3000/api/health || exit 1"]
+      interval: 15s
+      timeout: 5s
+      # Margen amplio: en portátiles modestos el primer arranque es lento
+      retries: 20
+      start_period: 120s
+    restart: unless-stopped
+
+volumes:
+  ministack-data:
+  postgres-data:
+  metabase-data:

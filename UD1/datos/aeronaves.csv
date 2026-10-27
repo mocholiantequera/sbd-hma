@@ -1,0 +1,612 @@
+icao24,matricula,fabricante,modelo,operador
+300015,EI-YCK,Airbus,A320neo,ITA Airways
+30004c,EI-NRT,Airbus,A320neo,ITA Airways
+3000b8,EI-JNQ,Airbus,A320neo,ITA Airways
+3001a2,EI-JXI,Airbus,A320neo,ITA Airways
+3001e8,EI-NGJ,Airbus,A320neo,ITA Airways
+300348,EI-DCW,Airbus,A320neo,ITA Airways
+3003ab,EI-GTW,Airbus,A320neo,ITA Airways
+300571,EI-RVP,Airbus,A320neo,ITA Airways
+300728,EI-XPQ,Airbus,A320neo,ITA Airways
+30079a,EI-RDD,Airbus,A320neo,ITA Airways
+3007bd,EI-NKL,Airbus,A320neo,ITA Airways
+300926,EI-JIO,Airbus,A320neo,ITA Airways
+300a27,EI-WLS,Airbus,A320neo,ITA Airways
+300a45,EI-NHF,Airbus,A320neo,ITA Airways
+300a61,EI-RJL,Airbus,A320neo,ITA Airways
+300bbc,EI-JRG,Airbus,A320neo,ITA Airways
+300bdd,EI-CMY,Airbus,A320neo,ITA Airways
+300be0,EI-PHY,Airbus,A320neo,ITA Airways
+300c90,EI-ZEX,Airbus,A320neo,ITA Airways
+300d8f,EI-DJR,Airbus,A320neo,ITA Airways
+300d96,EI-XIE,Airbus,A320neo,ITA Airways
+300db0,EI-FMC,Airbus,A320neo,ITA Airways
+300e28,EI-LWR,Airbus,A320neo,ITA Airways
+300ebb,EI-GCP,Airbus,A320neo,ITA Airways
+300f9a,EI-XKH,Airbus,A320neo,ITA Airways
+300fb4,EI-UNT,Airbus,A320neo,ITA Airways
+300ffd,EI-YYM,Airbus,A320neo,ITA Airways
+3400c3,EC-NUU,Embraer,E195,Air Europa
+340210,EC-ROF,Embraer,E195,Air Europa
+340302,EC-XEY,Airbus,A321,Vueling
+340432,EC-SDT,Embraer,E195,Air Europa
+340485,EC-KBF,Airbus,A320,Vueling
+3408fb,EC-RKI,ATR,ATR 72-600,Binter
+3409b7,EC-QON,Bombardier,CRJ1000,Air Nostrum
+3409ff,EC-MUZ,Airbus,A320,Vueling
+340bda,EC-CDO,Airbus,A320,Vueling
+340c47,EC-RJM,Airbus,A321,Iberia Express
+340c69,EC-UHO,Embraer,E195,Air Europa
+340cbc,EC-GHB,ATR,ATR 72-600,Binter
+340d37,EC-HMU,Airbus,A320,Vueling
+341273,EC-KMO,Airbus,A320,Iberia Express
+341296,EC-SSJ,Airbus,A320,Iberia Express
+3415aa,EC-SNB,ATR,ATR 72-600,Air Nostrum
+3415e8,EC-YZG,Airbus,A320,Vueling
+34181c,EC-JQQ,ATR,ATR 72-600,Air Nostrum
+341895,EC-ODC,Boeing,737-800,Air Europa
+3418b5,EC-HZI,Boeing,737-800,Air Europa
+3419fc,EC-LNL,ATR,ATR 72-600,Binter
+341c7f,EC-VKW,Airbus,A321,Iberia Express
+341cad,EC-LHY,Embraer,E195,Air Europa
+341dd1,EC-VNW,Airbus,A321,Vueling
+341dee,EC-SUI,Airbus,A321,Iberia Express
+341e1b,EC-YXP,Bombardier,CRJ1000,Air Nostrum
+341ea7,EC-EBR,ATR,ATR 72-600,Air Nostrum
+34216e,EC-NIJ,Airbus,A321,Vueling
+342276,EC-DCQ,Airbus,A320,Vueling
+342340,EC-DVS,ATR,ATR 72-600,Air Nostrum
+3423cb,EC-BIQ,Embraer,E195,Air Europa
+34241f,EC-BKL,Embraer,E195,Air Europa
+3426c8,EC-ZUA,Airbus,A320,Vueling
+342743,EC-FRX,ATR,ATR 72-600,Air Nostrum
+342830,EC-AMK,Cessna,H135,
+3428fd,EC-LFC,ATR,ATR 72-600,Binter
+3429e9,EC-USW,Airbus,A321,Vueling
+342a88,EC-NZO,ATR,ATR 72-600,Air Nostrum
+342abf,EC-OSJ,Airbus,A321,Vueling
+342ba9,EC-KZI,Cessna,172,
+342c01,EC-FSE,ATR,ATR 72-600,Air Nostrum
+342cf2,EC-GNQ,Airbus,A321,Vueling
+342d72,EC-KIT,ATR,ATR 72-600,Air Nostrum
+342fd0,EC-WPH,Airbus,A321,Vueling
+34308c,EC-PTZ,Embraer,E195,Air Europa
+3430e9,EC-XLK,ATR,ATR 72-600,Binter
+34311e,EC-XEG,Boeing,737-800,Air Europa
+34316d,EC-KLO,ATR,ATR 72-600,Binter
+343227,EC-ASW,Embraer,E195,Air Europa
+3433c9,EC-IJF,Airbus,A321,Vueling
+343419,EC-MIK,ATR,ATR 72-600,Binter
+34351a,EC-BMG,ATR,ATR 72-600,Binter
+34353e,EC-DPV,Airbus,A321,Iberia Express
+343545,EC-MBM,ATR,ATR 72-600,Binter
+343555,EC-KWN,ATR,ATR 72-600,Air Nostrum
+3435d3,EC-BBM,Boeing,737-800,Air Europa
+34377d,EC-IFJ,Airbus,A320,Iberia Express
+3437cb,EC-ZIF,Airbus,A321,Vueling
+3437d4,EC-FKZ,ATR,ATR 72-600,Binter
+3437f6,EC-GCQ,Airbus,A320,Vueling
+3438d8,EC-NNJ,Bombardier,CRJ1000,Air Nostrum
+3439ec,EC-XXK,Bombardier,CRJ1000,Air Nostrum
+343af5,EC-EPB,Embraer,E195,Air Europa
+343b88,EC-TQR,Bombardier,CRJ1000,Air Nostrum
+343ba8,EC-AVW,ATR,ATR 72-600,Binter
+343c1c,EC-PPY,Airbus,A321,Iberia Express
+343c4b,EC-TQP,Airbus,A320,Vueling
+343c84,EC-CNF,ATR,ATR 72-600,Binter
+343cf2,EC-ZMT,Airbus,A320,Iberia Express
+343d65,EC-TKW,Embraer,E195,Air Europa
+343db6,EC-KYS,Airbus,A321,Vueling
+343e49,EC-RVE,Boeing,737-800,Air Europa
+343fff,EC-KLD,Airbus,A321,Vueling
+344014,EC-ILF,Airbus,A320,Iberia Express
+3440dd,EC-IMX,ATR,ATR 72-600,Binter
+34411b,EC-LGZ,Airbus,A320,Vueling
+34418f,EC-YLQ,ATR,ATR 72-600,Binter
+344338,EC-QOV,Airbus,A320,Vueling
+344436,EC-ULM,Airbus,A321,Iberia Express
+34452c,EC-GZY,Airbus Helicopters,172,
+34453b,EC-KDV,ATR,ATR 72-600,Air Nostrum
+34456e,EC-QJF,Airbus,A321,Vueling
+34463a,EC-UXS,Airbus,A321,Iberia Express
+34469c,EC-GXJ,Airbus,A320,Iberia Express
+3446b3,EC-AYF,Airbus,A320,Vueling
+3448a7,EC-VIL,ATR,ATR 72-600,Binter
+3449a8,EC-TEE,ATR,ATR 72-600,Binter
+344a42,EC-MLJ,Piper,PA-28,
+344aeb,EC-GRN,ATR,ATR 72-600,Air Nostrum
+344b7c,EC-QRM,Airbus,A321,Vueling
+344bd8,EC-JQZ,ATR,ATR 72-600,Binter
+344d84,EC-TXL,ATR,ATR 72-600,Binter
+344e16,EC-HUA,Airbus,A321,Vueling
+344fcb,EC-DLV,ATR,ATR 72-600,Air Nostrum
+345173,EC-QAZ,Boeing,737-800,Air Europa
+34536d,EC-HQQ,ATR,ATR 72-600,Air Nostrum
+34539b,EC-UWB,ATR,ATR 72-600,Binter
+3454c0,EC-VZS,Bombardier,CRJ1000,Air Nostrum
+34558c,EC-MPI,Airbus,A320,Vueling
+3455d3,EC-TYQ,Airbus,A320,Vueling
+3457be,EC-BDE,Airbus,A320,Iberia Express
+3459bb,EC-NCP,Airbus,A320,Iberia Express
+3459f9,EC-NLR,Airbus,A320,Vueling
+345b30,EC-YOI,Bombardier,CRJ1000,Air Nostrum
+345b40,EC-UTP,Boeing,737-800,Air Europa
+345c06,EC-YVP,Airbus,A320,Iberia Express
+345c19,EC-PBZ,Boeing,737-800,Air Europa
+345d7b,EC-FSJ,Embraer,E195,Air Europa
+346024,EC-DYL,ATR,ATR 72-600,Binter
+346055,EC-RSR,Airbus,A321,Iberia Express
+34610e,EC-QKP,Bombardier,CRJ1000,Air Nostrum
+34614b,EC-QCF,Embraer,E195,Air Europa
+346227,EC-ZAU,Embraer,E195,Air Europa
+346235,EC-WCI,Embraer,E195,Air Europa
+3464ef,EC-CLS,Bombardier,CRJ1000,Air Nostrum
+3466b5,EC-GGU,Airbus,A320,Iberia Express
+3466d4,EC-QID,Airbus,A321,Iberia Express
+3466ef,EC-LSF,ATR,ATR 72-600,Binter
+3467b6,EC-ANX,Boeing,737-800,Air Europa
+346946,EC-MSV,Airbus,A320,Iberia Express
+346a96,EC-GAB,Airbus,A321,Vueling
+346ae9,EC-JKZ,Boeing,737-800,Air Europa
+346b08,EC-OLI,Airbus,A320,Iberia Express
+346b62,EC-NBL,ATR,ATR 72-600,Air Nostrum
+346bb0,EC-SSY,Boeing,737-800,Air Europa
+346e9f,EC-BUG,Embraer,E195,Air Europa
+347097,EC-EKP,Bombardier,CRJ1000,Air Nostrum
+3471a3,EC-XUI,Airbus,A320,Iberia Express
+3471e3,EC-TQK,Airbus,A320,Vueling
+34724f,EC-JHQ,ATR,ATR 72-600,Binter
+347376,EC-GXQ,Airbus,A320,Vueling
+3473e3,EC-WIO,Bombardier,CRJ1000,Air Nostrum
+34740c,EC-NJV,ATR,ATR 72-600,Binter
+347439,EC-BCE,Airbus,A320,Vueling
+347526,EC-UWM,Boeing,737-800,Air Europa
+347598,EC-DGD,ATR,ATR 72-600,Air Nostrum
+3476f5,EC-EVX,Piper,H135,
+34776e,EC-BYW,Airbus,A320,Iberia Express
+3479c1,EC-RDP,Airbus,A321,Iberia Express
+347a34,EC-KYM,Airbus,A321,Vueling
+347a98,EC-QLQ,ATR,ATR 72-600,Binter
+347f14,EC-QMA,ATR,ATR 72-600,Binter
+347f45,EC-OYJ,Airbus,A321,Iberia Express
+347f95,EC-BHM,Embraer,E195,Air Europa
+348044,EC-TYF,ATR,ATR 72-600,Binter
+348156,EC-EMM,Airbus,A321,Vueling
+3481a6,EC-DRV,Airbus,A321,Iberia Express
+348540,EC-SNV,Bombardier,CRJ1000,Air Nostrum
+3485c6,EC-KOH,ATR,ATR 72-600,Binter
+348667,EC-FIG,ATR,ATR 72-600,Air Nostrum
+348695,EC-VBQ,ATR,ATR 72-600,Air Nostrum
+348776,EC-XQQ,ATR,ATR 72-600,Binter
+3487a7,EC-HJD,Boeing,737-800,Air Europa
+3487f8,EC-HGM,ATR,ATR 72-600,Binter
+348815,EC-OXS,Airbus,A320,Iberia Express
+348840,EC-VCR,Airbus,A320,Iberia Express
+348888,EC-ZSB,ATR,ATR 72-600,Binter
+348957,EC-QYB,ATR,ATR 72-600,Air Nostrum
+348a0b,EC-VFY,ATR,ATR 72-600,Air Nostrum
+348ad8,EC-CNT,Bombardier,CRJ1000,Air Nostrum
+348b67,EC-YZN,Airbus,A321,Iberia Express
+348bd3,EC-UHQ,Embraer,E195,Air Europa
+348cb5,EC-OIF,ATR,ATR 72-600,Binter
+348e13,EC-SNR,ATR,ATR 72-600,Binter
+348e6c,EC-VVO,Airbus,A320,Iberia Express
+348fb1,EC-XNK,Airbus,A320,Vueling
+349213,EC-ZYT,Bombardier,CRJ1000,Air Nostrum
+349286,EC-JRL,ATR,ATR 72-600,Air Nostrum
+3492f9,EC-BKA,ATR,ATR 72-600,Binter
+34932c,EC-RHI,Bombardier,CRJ1000,Air Nostrum
+34933d,EC-KXY,Airbus,A321,Iberia Express
+349518,EC-YBW,Bombardier,CRJ1000,Air Nostrum
+349543,EC-YRE,ATR,ATR 72-600,Binter
+34969a,EC-BVT,Airbus,A321,Vueling
+349819,EC-VVA,Boeing,737-800,Air Europa
+3498d5,EC-ABQ,Bombardier,CRJ1000,Air Nostrum
+349a97,EC-AJI,Boeing,737-800,Air Europa
+349b8b,EC-HRZ,Airbus,A321,Vueling
+349caa,EC-NRI,Bombardier,CRJ1000,Air Nostrum
+349e8b,EC-NNS,Embraer,E195,Air Europa
+349f2e,EC-SJY,Airbus Helicopters,172,
+34a043,EC-OBF,Airbus,A320,Vueling
+34a0b2,EC-UGP,Boeing,737-800,Air Europa
+34a17f,EC-HVQ,Airbus,A320,Iberia Express
+34a1e3,EC-XFO,Airbus,A321,Iberia Express
+34a2c3,EC-LTQ,ATR,ATR 72-600,Air Nostrum
+34a3c8,EC-DOR,Airbus,A321,Iberia Express
+34a4f9,EC-TCK,ATR,ATR 72-600,Air Nostrum
+34a592,EC-WUD,Airbus,A320,Iberia Express
+34a75e,EC-JNT,Airbus,A321,Vueling
+34a848,EC-HMZ,Boeing,737-800,Air Europa
+34a8cc,EC-MUF,Airbus,A320,Iberia Express
+34a95d,EC-FLN,Bombardier,CRJ1000,Air Nostrum
+34a996,EC-KTZ,Airbus,A321,Vueling
+34ab39,EC-ZAN,Airbus,A320,Iberia Express
+34ab95,EC-ZYL,Embraer,E195,Air Europa
+34ac64,EC-IVS,Airbus,A321,Vueling
+34ae6e,EC-NKA,Embraer,E195,Air Europa
+34af31,EC-CUY,Boeing,737-800,Air Europa
+34b085,EC-VMF,Airbus,A320,Vueling
+34b0f6,EC-MMN,ATR,ATR 72-600,Binter
+34b18d,EC-XOW,ATR,ATR 72-600,Binter
+34b396,EC-VFE,Airbus,A321,Vueling
+34b3aa,EC-PRU,Airbus,A320,Vueling
+34b3e2,EC-KBB,Airbus,A320,Iberia Express
+34b403,EC-LRR,ATR,ATR 72-600,Binter
+34b4b1,EC-QJU,Boeing,737-800,Air Europa
+34b56b,EC-NIM,Bombardier,CRJ1000,Air Nostrum
+34b6ca,EC-API,Airbus,A320,Vueling
+34b732,EC-TBJ,Airbus Helicopters,H135,
+34b83d,EC-GJM,Airbus,A320,Iberia Express
+34b907,EC-LKS,Airbus,A320,Iberia Express
+34ba48,EC-VJX,Bombardier,CRJ1000,Air Nostrum
+34bc61,EC-KLS,Embraer,E195,Air Europa
+34bc8d,EC-YJG,Embraer,E195,Air Europa
+34bda2,EC-BKW,ATR,ATR 72-600,Air Nostrum
+34bf59,EC-QNL,ATR,ATR 72-600,Binter
+34c0c0,EC-XCT,ATR,ATR 72-600,Air Nostrum
+34c4bf,EC-ZRI,Boeing,737-800,Air Europa
+34c535,EC-RJZ,ATR,ATR 72-600,Air Nostrum
+34c606,EC-WMY,Airbus,A320,Iberia Express
+34c674,EC-XAW,Airbus,A320,Iberia Express
+34c8a2,EC-RAQ,ATR,ATR 72-600,Binter
+34c970,EC-SDY,Boeing,737-800,Air Europa
+34c974,EC-WCV,Bombardier,CRJ1000,Air Nostrum
+34c9e7,EC-FUS,Airbus,A320,Iberia Express
+34caae,EC-UDC,ATR,ATR 72-600,Binter
+34cb72,EC-QRD,Airbus,A320,Iberia Express
+34ccad,EC-IQX,ATR,ATR 72-600,Binter
+34cd49,EC-VKE,Boeing,737-800,Air Europa
+34d0d6,EC-KCC,Boeing,737-800,Air Europa
+34d1c7,EC-YAI,Airbus,A320,Vueling
+34d20e,EC-BWO,Airbus,A320,Iberia Express
+34d216,EC-UCO,Embraer,E195,Air Europa
+34d436,EC-URK,Embraer,E195,Air Europa
+34d5a7,EC-FEP,ATR,ATR 72-600,Binter
+34d666,EC-WKB,Boeing,737-800,Air Europa
+34d784,EC-PWN,Airbus,A321,Vueling
+34d7c8,EC-MHL,Embraer,E195,Air Europa
+34d87c,EC-NDH,Bombardier,CRJ1000,Air Nostrum
+34d94f,EC-PDH,ATR,ATR 72-600,Binter
+34da88,EC-VRJ,Airbus,A320,Iberia Express
+34db7b,EC-QKQ,Airbus,A320,Iberia Express
+34dbe8,EC-WVT,ATR,ATR 72-600,Binter
+34dd41,EC-ZRN,Airbus,A320,Iberia Express
+34ddd9,EC-RPY,Airbus,A321,Vueling
+34de03,EC-CCV,Airbus,A320,Vueling
+34dfb0,EC-TFE,Airbus,A320,Vueling
+34e10b,EC-FFL,Airbus,A320,Vueling
+34e396,EC-QSD,Airbus,A320,Vueling
+34e572,EC-MDH,ATR,ATR 72-600,Binter
+34e5a9,EC-WBG,ATR,ATR 72-600,Binter
+34e627,EC-KIL,ATR,ATR 72-600,Binter
+34e8ec,EC-DJB,ATR,ATR 72-600,Binter
+34e967,EC-LRS,Bombardier,CRJ1000,Air Nostrum
+34e977,EC-BAC,Embraer,E195,Air Europa
+34e9c8,EC-QFP,Boeing,737-800,Air Europa
+34ea23,EC-PMW,Embraer,E195,Air Europa
+34eabc,EC-GXT,ATR,ATR 72-600,Binter
+34eb61,EC-TVB,ATR,ATR 72-600,Binter
+34eb62,EC-CPD,Bombardier,CRJ1000,Air Nostrum
+34ed20,EC-KZP,ATR,ATR 72-600,Binter
+34ed38,EC-RLO,Airbus,A320,Iberia Express
+34ee04,EC-GEM,Airbus,A321,Vueling
+34ee2f,EC-DEQ,Airbus,A320,Vueling
+34f052,EC-PWL,Boeing,737-800,Air Europa
+34f10c,EC-UHO,Airbus,A321,Iberia Express
+34f189,EC-LAH,ATR,ATR 72-600,Binter
+34f325,EC-WMA,Boeing,737-800,Air Europa
+34f3ef,EC-AYJ,ATR,ATR 72-600,Binter
+34f4b9,EC-FLW,Boeing,737-800,Air Europa
+34f4ed,EC-FZY,Bombardier,CRJ1000,Air Nostrum
+34f5b5,EC-FSH,ATR,ATR 72-600,Air Nostrum
+34f77e,EC-NKN,Bombardier,CRJ1000,Air Nostrum
+34f8f2,EC-CQH,Airbus Helicopters,172,
+34f9b1,EC-YNK,ATR,ATR 72-600,Air Nostrum
+34faf8,EC-HFS,Boeing,737-800,Air Europa
+34fcb9,EC-IIL,Airbus,A320,Iberia Express
+34fd00,EC-MBW,ATR,ATR 72-600,Binter
+34fd45,EC-BXO,Boeing,737-800,Air Europa
+34fdaf,EC-OJF,Airbus,A321,Vueling
+34fe1d,EC-IPX,Airbus,A320,Vueling
+34fe6d,EC-ONF,Bombardier,CRJ1000,Air Nostrum
+34fe80,EC-EPV,Airbus,A320,Iberia Express
+34feec,EC-DCY,Boeing,737-800,Air Europa
+34fff6,EC-GAG,Airbus,A320,Vueling
+39a01b,F-NQW,Airbus,A220-300,Air France
+39a05b,F-TAE,Airbus,A220-300,Air France
+39a119,F-VUY,Boeing,737-800,Transavia France
+39a158,F-BIY,Airbus,A220-300,Air France
+39a2ff,F-UYQ,Airbus,A220-300,Air France
+39a356,F-RHA,Airbus,A220-300,Air France
+39a35f,F-NKE,Boeing,737-800,Transavia France
+39a407,F-PYI,Airbus,A220-300,Air France
+39a46f,F-HMS,Airbus,A220-300,Air France
+39a4e5,F-HUX,Boeing,737-800,Transavia France
+39a54e,F-JZZ,Boeing,737-800,Transavia France
+39a5d9,F-YCZ,Boeing,737-800,Transavia France
+39a5ec,F-ZYP,Boeing,737-800,Transavia France
+39a62f,F-UPA,Boeing,737-800,Transavia France
+39a6bd,F-IZI,Boeing,737-800,Transavia France
+39a732,F-TCY,Airbus,A220-300,Air France
+39a8f0,F-WEL,Airbus,A220-300,Air France
+39a9fc,F-YUS,Airbus,A220-300,Air France
+39aa00,F-SBD,Boeing,737-800,Transavia France
+39aa1f,F-QTT,Airbus,A220-300,Air France
+39ac11,F-WPC,Boeing,737-800,Transavia France
+39ac81,F-NRR,Airbus,A220-300,Air France
+39acf6,F-OOA,Airbus,A220-300,Air France
+39ad47,F-EGS,Airbus,A220-300,Air France
+39ad7e,F-FYZ,Boeing,737-800,Transavia France
+39add4,F-AKW,Airbus,A220-300,Air France
+39ae18,F-ANF,Boeing,737-800,Transavia France
+39aed0,F-IYO,Airbus,A220-300,Air France
+39af7c,F-KLA,Boeing,737-800,Transavia France
+3c6011,D-OJN,Airbus,A320,Eurowings
+3c6115,D-MMJ,Airbus,A320neo,Lufthansa
+3c61af,D-BBR,Airbus,A320neo,Lufthansa
+3c620a,D-VJI,Airbus,A320,Eurowings
+3c623a,D-NEK,Airbus,A320neo,Lufthansa
+3c626b,D-JZV,Airbus,A320neo,Lufthansa
+3c6333,D-IOQ,Airbus,A320,Eurowings
+3c6496,D-IAQ,Airbus,A320neo,Lufthansa
+3c6522,D-HJQ,Airbus,A320neo,Lufthansa
+3c6569,D-ZOM,Airbus,A320,Eurowings
+3c6673,D-WZJ,Airbus,A320neo,Lufthansa
+3c66da,D-SJI,Airbus,A320,Eurowings
+3c671c,D-VZU,Airbus,A320,Eurowings
+3c6785,D-HLZ,Airbus,A320,Eurowings
+3c6798,D-YDJ,Airbus,A320,Eurowings
+3c67fb,D-NFR,Airbus,A320neo,Lufthansa
+3c685e,D-DWI,Airbus,A320,Eurowings
+3c694d,D-TQI,Airbus,A320neo,Lufthansa
+3c699c,D-JMP,Airbus,A320,Eurowings
+3c6a0d,D-XSK,Airbus,A320,Eurowings
+3c6a39,D-CAX,Airbus,A320,Eurowings
+3c6aa4,D-YIV,Airbus,A320,Eurowings
+3c6ac9,D-QZV,Airbus,A320neo,Lufthansa
+3c6ad1,D-ZHZ,Airbus,A320,Eurowings
+3c6b6d,D-DPR,Airbus,A320,Eurowings
+3c6cec,D-CNW,Airbus,A320neo,Lufthansa
+3c6dbf,D-USH,Airbus,A320,Eurowings
+3c6def,D-RAT,Airbus,A320,Eurowings
+3c6e14,D-OUL,Airbus,A320,Eurowings
+3c6ee4,D-BZK,Airbus,A320neo,Lufthansa
+3c6fd2,D-QEA,Airbus,A320neo,Lufthansa
+406022,G-RBS,Boeing,737-800,Jet2
+40602a,G-UUT,Airbus,A320neo,easyJet UK
+406034,G-DRE,Airbus,A320,easyJet UK
+40604d,G-GAD,Airbus,A320neo,easyJet UK
+40605e,G-YYV,Boeing,737-800,Jet2
+406094,G-APB,Airbus,A320neo,easyJet UK
+40612e,G-XPA,Boeing,737-800,Jet2
+406159,G-QMJ,Airbus,A320neo,easyJet UK
+406174,G-OAD,Airbus,A320neo,easyJet UK
+4061af,G-MPM,Boeing,737-800,Jet2
+4061b2,G-GEL,Boeing,737-800,Jet2
+406272,G-LHF,Boeing,737-800,Jet2
+4062a3,G-YED,Boeing,737-800,Jet2
+4062e4,G-BWF,Boeing,737-800,Jet2
+406305,G-ZUX,Airbus,A320neo,easyJet UK
+40638b,G-LVO,Airbus,A320,easyJet UK
+4063be,G-CPA,Airbus,A320neo,easyJet UK
+40643f,G-NOE,Boeing,737-800,Jet2
+406445,G-GBF,Boeing,737-800,Jet2
+4064a0,G-UIK,Airbus,A320,easyJet UK
+4064dd,G-WAU,Airbus,A320neo,easyJet UK
+40652b,G-ZAT,Boeing,737-800,Jet2
+4065cd,G-SSB,Boeing,737-800,Jet2
+406613,G-FSR,Airbus,A320neo,easyJet UK
+406668,G-SGN,Boeing,737-800,Jet2
+406684,G-EYY,Airbus,A320neo,easyJet UK
+4066df,G-IXI,Airbus,A320,easyJet UK
+406779,G-BSG,Boeing,737-800,Jet2
+4067e5,G-TWX,Boeing,737-800,Jet2
+4067ea,G-KSE,Airbus,A320neo,easyJet UK
+40688b,G-MPE,Airbus,A320,easyJet UK
+4068ae,G-HFB,Airbus,A320neo,easyJet UK
+4068dd,G-MYI,Airbus,A320,easyJet UK
+4068e3,G-LHB,Airbus,A320neo,easyJet UK
+4068e6,G-OJQ,Boeing,737-800,Jet2
+4068ed,G-VEF,Airbus,A320neo,easyJet UK
+40690c,G-TAY,Airbus,A320neo,easyJet UK
+406938,G-ZCV,Boeing,737-800,Jet2
+40694c,G-KJT,Airbus,A320neo,easyJet UK
+40694e,G-LUV,Boeing,737-800,Jet2
+4069ba,G-MKI,Boeing,737-800,Jet2
+406a01,G-XLG,Airbus,A320,easyJet UK
+406a88,G-LGQ,Boeing,737-800,Jet2
+406a89,G-SPS,Boeing,737-800,Jet2
+406ab9,G-TTT,Airbus,A320neo,easyJet UK
+406abb,G-MHH,Boeing,737-800,Jet2
+406abd,G-JSR,Airbus,A320,easyJet UK
+406b60,G-WHM,Boeing,737-800,Jet2
+406b95,G-HUA,Boeing,737-800,Jet2
+406bae,G-LWF,Airbus,A320,easyJet UK
+406c4b,G-JRT,Boeing,737-800,Jet2
+406cc9,G-XCV,Airbus,A320neo,easyJet UK
+406cd9,G-HOE,Boeing,737-800,Jet2
+406d23,G-ZVY,Boeing,737-800,Jet2
+406d6e,G-INJ,Airbus,A320neo,easyJet UK
+406dc1,G-CAI,Boeing,737-800,Jet2
+406dfd,G-PJN,Airbus,A320neo,easyJet UK
+406e1e,G-RRF,Airbus,A320neo,easyJet UK
+406e24,G-QHC,Boeing,737-800,Jet2
+406e73,G-MPM,Airbus,A320neo,easyJet UK
+406e86,G-JRQ,Boeing,737-800,Jet2
+406efc,G-RXH,Boeing,737-800,Jet2
+406f04,G-NTQ,Airbus,A320,easyJet UK
+406f64,G-LYH,Boeing,737-800,Jet2
+406fbc,G-PQL,Boeing,737-800,Jet2
+406fe8,G-CLB,Boeing,737-800,Jet2
+406ff9,G-HUA,Boeing,737-800,Jet2
+484052,PH-KYN,Boeing,737-800,Transavia
+48406f,PH-ASU,Embraer,E195-E2,KLM
+4840dd,PH-SGL,Embraer,E195-E2,KLM
+4842b8,PH-HXQ,Embraer,E195-E2,KLM
+48433d,PH-VCY,Embraer,E195-E2,KLM
+4844bd,PH-TSN,Boeing,737-800,Transavia
+4844c9,PH-BOB,Boeing,737-800,Transavia
+4845da,PH-SLU,Boeing,737-800,Transavia
+4845de,PH-UMR,Boeing,737-800,Transavia
+484662,PH-EPR,Boeing,737-800,Transavia
+484664,PH-SXR,Embraer,E195-E2,KLM
+4846d2,PH-FPY,Embraer,E195-E2,KLM
+4849a4,PH-NGK,Embraer,E195-E2,KLM
+4849fb,PH-HHH,Boeing,737-800,Transavia
+484aa8,PH-YMI,Boeing,737-800,Transavia
+484abb,PH-AYZ,Embraer,E195-E2,KLM
+484b36,PH-RIV,Embraer,E195-E2,KLM
+484be4,PH-HST,Embraer,E195-E2,KLM
+484c17,PH-CXP,Embraer,E195-E2,KLM
+484de9,PH-BRZ,Boeing,737-800,Transavia
+484f05,PH-AWZ,Embraer,E195-E2,KLM
+484f37,PH-HJZ,Boeing,737-800,Transavia
+484fa2,PH-DZO,Boeing,737-800,Transavia
+484fad,PH-TLA,Embraer,E195-E2,KLM
+4b1076,HB-OOO,Airbus,A220-300,Swiss
+4b10a6,HB-ELK,Airbus,A220-300,Swiss
+4b111f,HB-YMJ,Airbus,A220-300,Swiss
+4b135b,HB-IWC,Airbus,A220-300,Swiss
+4b1417,HB-JYH,Airbus,A220-300,Swiss
+4b14e7,HB-GVV,Airbus,A220-300,Swiss
+4b15f2,HB-AIW,Airbus,A220-300,Swiss
+4b160d,HB-OIM,Airbus,A220-300,Swiss
+4b16e9,HB-XNY,Airbus,A220-300,Swiss
+4b1942,HB-YRD,Airbus,A220-300,Swiss
+4b19fd,HB-PJR,Airbus,A220-300,Swiss
+4b1a03,HB-VPC,Airbus,A220-300,Swiss
+4b1a82,HB-YMV,Airbus,A220-300,Swiss
+4b1d50,HB-UGP,Airbus,A220-300,Swiss
+4b1d52,HB-QVH,Airbus,A220-300,Swiss
+4b1da5,HB-RYU,Airbus,A220-300,Swiss
+4b1f41,HB-VFC,Airbus,A220-300,Swiss
+4ca002,EI-ZAO,Boeing,737 MAX 8,Ryanair
+4ca00f,EI-OOG,Boeing,737-800,Ryanair
+4ca017,EI-ZOA,Boeing,737-800,Ryanair
+4ca01a,EI-DKX,Boeing,737 MAX 8,Ryanair
+4ca029,EI-IUB,Boeing,737 MAX 8,Ryanair
+4ca02e,EI-DKT,Boeing,737-800,Ryanair
+4ca044,EI-COV,Boeing,737 MAX 8,Ryanair
+4ca07b,EI-EBZ,Boeing,737 MAX 8,Ryanair
+4ca102,EI-OXP,Boeing,737-800,Ryanair
+4ca10c,EI-YGY,Boeing,737 MAX 8,Ryanair
+4ca13f,EI-JUH,Boeing,737 MAX 8,Ryanair
+4ca140,EI-FZJ,Boeing,737-800,Ryanair
+4ca14c,EI-OWQ,Boeing,737-800,Ryanair
+4ca16a,EI-BOA,Boeing,737 MAX 8,Ryanair
+4ca188,EI-KTO,Boeing,737 MAX 8,Ryanair
+4ca1b2,EI-WXS,Boeing,737 MAX 8,Ryanair
+4ca1ce,EI-AGT,Boeing,737 MAX 8,Ryanair
+4ca201,EI-NQZ,Boeing,737 MAX 8,Ryanair
+4ca260,EI-TWX,Boeing,737 MAX 8,Ryanair
+4ca289,EI-XRS,Boeing,737 MAX 8,Ryanair
+4ca2ac,EI-ZVJ,Boeing,737 MAX 8,Ryanair
+4ca2da,EI-QNT,Boeing,737-800,Ryanair
+4ca2e6,EI-DEY,Boeing,737 MAX 8,Ryanair
+4ca301,EI-ZFW,Boeing,737-800,Ryanair
+4ca303,EI-UEQ,Boeing,737-800,Ryanair
+4ca327,EI-TZJ,Boeing,737-800,Ryanair
+4ca344,EI-FHQ,Boeing,737-800,Ryanair
+4ca359,EI-RKM,Boeing,737-800,Ryanair
+4ca368,EI-ZQW,Boeing,737-800,Ryanair
+4ca377,EI-AYS,Boeing,737 MAX 8,Ryanair
+4ca3b1,EI-APO,Boeing,737-800,Ryanair
+4ca3ba,EI-KIK,Boeing,737 MAX 8,Ryanair
+4ca3d1,EI-NZW,Boeing,737 MAX 8,Ryanair
+4ca487,EI-GOZ,Boeing,737 MAX 8,Ryanair
+4ca4c9,EI-BZM,Boeing,737-800,Ryanair
+4ca501,EI-NST,Boeing,737-800,Ryanair
+4ca505,EI-RIH,Boeing,737 MAX 8,Ryanair
+4ca515,EI-VJL,Boeing,737-800,Ryanair
+4ca568,EI-TFF,Boeing,737 MAX 8,Ryanair
+4ca591,EI-YSA,Boeing,737-800,Ryanair
+4ca5ac,EI-DMW,Boeing,737 MAX 8,Ryanair
+4ca5d9,EI-PJO,Boeing,737 MAX 8,Ryanair
+4ca611,EI-WUY,Boeing,737-800,Ryanair
+4ca662,EI-ORT,Boeing,737-800,Ryanair
+4ca66a,EI-RGG,Boeing,737-800,Ryanair
+4ca6be,EI-QZX,Boeing,737-800,Ryanair
+4ca6e7,EI-EVO,Boeing,737 MAX 8,Ryanair
+4ca776,EI-ZIT,Boeing,737-800,Ryanair
+4ca788,EI-GMN,Boeing,737-800,Ryanair
+4ca789,EI-ONZ,Boeing,737 MAX 8,Ryanair
+4ca796,EI-YED,Boeing,737-800,Ryanair
+4ca7a8,EI-ZDK,Boeing,737 MAX 8,Ryanair
+4ca7c0,EI-NDV,Boeing,737 MAX 8,Ryanair
+4ca806,EI-RZS,Boeing,737-800,Ryanair
+4ca82e,EI-LBQ,Boeing,737 MAX 8,Ryanair
+4ca846,EI-DQV,Boeing,737-800,Ryanair
+4ca869,EI-ZES,Boeing,737 MAX 8,Ryanair
+4ca86b,EI-EPQ,Boeing,737 MAX 8,Ryanair
+4ca875,EI-YBW,Boeing,737-800,Ryanair
+4ca8e0,EI-VCA,Boeing,737-800,Ryanair
+4ca8fd,EI-PIH,Boeing,737-800,Ryanair
+4ca914,EI-FMU,Boeing,737-800,Ryanair
+4ca920,EI-FWW,Boeing,737 MAX 8,Ryanair
+4ca923,EI-BDT,Boeing,737-800,Ryanair
+4ca94c,EI-PMH,Boeing,737 MAX 8,Ryanair
+4ca985,EI-INS,Boeing,737 MAX 8,Ryanair
+4ca995,EI-VMV,Boeing,737-800,Ryanair
+4ca998,EI-IUR,Boeing,737-800,Ryanair
+4ca9b0,EI-QLY,Boeing,737 MAX 8,Ryanair
+4ca9e9,EI-TJB,Boeing,737-800,Ryanair
+4ca9f8,EI-GWI,Boeing,737-800,Ryanair
+4caa21,EI-VYP,Boeing,737 MAX 8,Ryanair
+4caa28,EI-QBR,Boeing,737 MAX 8,Ryanair
+4caa4f,EI-EZX,Boeing,737 MAX 8,Ryanair
+4caa5a,EI-SHD,Boeing,737 MAX 8,Ryanair
+4cab0e,EI-BDV,Boeing,737-800,Ryanair
+4cab19,EI-GCS,Boeing,737 MAX 8,Ryanair
+4cab2e,EI-GLB,Boeing,737-800,Ryanair
+4cab38,EI-ELT,Boeing,737 MAX 8,Ryanair
+4cab4f,EI-HDA,Boeing,737 MAX 8,Ryanair
+4cab6a,EI-ZLM,Boeing,737-800,Ryanair
+4cac05,EI-TIO,Boeing,737 MAX 8,Ryanair
+4cac5d,EI-DON,Boeing,737-800,Ryanair
+4cac60,EI-JTX,Boeing,737 MAX 8,Ryanair
+4cac67,EI-FBJ,Boeing,737-800,Ryanair
+4cac68,EI-YXK,Boeing,737-800,Ryanair
+4cac7e,EI-CEQ,Boeing,737 MAX 8,Ryanair
+4cac85,EI-JDE,Boeing,737-800,Ryanair
+4cacab,EI-QFE,Boeing,737-800,Ryanair
+4cacb3,EI-UPP,Boeing,737-800,Ryanair
+4cacc2,EI-INP,Boeing,737-800,Ryanair
+4cad11,EI-LPK,Boeing,737-800,Ryanair
+4cad3e,EI-XLV,Boeing,737 MAX 8,Ryanair
+4cad3e,EI-XLZ,Boeing,737 MAX 8,Ryanair
+4cad5c,EI-OMO,Boeing,737-800,Ryanair
+4cad63,EI-MQZ,Boeing,737-800,Ryanair
+4cad8a,EI-BXR,Boeing,737 MAX 8,Ryanair
+4cad9c,EI-ORY,Boeing,737 MAX 8,Ryanair
+4cadac,EI-OVG,Boeing,737 MAX 8,Ryanair
+4cadd0,EI-KEO,Boeing,737-800,Ryanair
+4cadef,EI-QTU,Boeing,737-800,Ryanair
+4cae11,EI-CEE,Boeing,737 MAX 8,Ryanair
+4caeb0,EI-TAN,Boeing,737-800,Ryanair
+4caebb,EI-MDO,Boeing,737 MAX 8,Ryanair
+4caed7,EI-WVE,Boeing,737 MAX 8,Ryanair
+4caf25,EI-MQV,Boeing,737-800,Ryanair
+4caf2b,EI-XEX,Boeing,737 MAX 8,Ryanair
+4caf35,EI-CBR,Boeing,737-800,Ryanair
+4caf48,EI-JAW,Boeing,737 MAX 8,Ryanair
+4caf53,EI-FAP,Boeing,737 MAX 8,Ryanair
+4cafb6,EI-IFB,Boeing,737-800,Ryanair
+4d2395,9H-IFH,Boeing,737 MAX 8-200,Malta Air
+4d24a1,9H-CAE,Boeing,737 MAX 8-200,Malta Air
+4d24f7,9H-RUJ,Boeing,737 MAX 8-200,Malta Air
+4d261c,9H-EUM,Boeing,737 MAX 8-200,Malta Air
+4d2783,9H-QRP,Boeing,737 MAX 8-200,Malta Air
+4d28a7,9H-MMN,Boeing,737 MAX 8-200,Malta Air
+4d28d3,9H-LFT,Boeing,737 MAX 8-200,Malta Air
+4d2962,9H-QZZ,Boeing,737 MAX 8-200,Malta Air
+4d2963,9H-FST,Boeing,737 MAX 8-200,Malta Air
+4d29a6,9H-TFE,Boeing,737 MAX 8-200,Malta Air
+4d29a7,9H-EYQ,Boeing,737 MAX 8-200,Malta Air
+4d29bd,9H-KJE,Boeing,737 MAX 8-200,Malta Air
+4d29d6,9H-BCA,Boeing,737 MAX 8-200,Malta Air
+4d2bbf,9H-PYZ,Boeing,737 MAX 8-200,Malta Air
+4d2cd6,9H-PEN,Boeing,737 MAX 8-200,Malta Air
+4d2cfa,9H-CLB,Boeing,737 MAX 8-200,Malta Air
+4d2d78,9H-LUL,Boeing,737 MAX 8-200,Malta Air
+4d2ed0,9H-LDT,Boeing,737 MAX 8-200,Malta Air
+4d2f36,9H-AEZ,Boeing,737 MAX 8-200,Malta Air
